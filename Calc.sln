@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc\Calc.csproj", "{4F4DC9AA-464B-498C-8734-B0CE3CE15A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Gtk", "Calc\Calc.Gtk\Calc.Gtk.csproj", "{CE53797A-D6D5-4237-9C25-A033AF708A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Mac", "Calc\Calc.Mac\Calc.Mac.csproj", "{BE5DD249-1EED-4E02-B8A3-83239FFD2D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Wpf", "Calc\Calc.Wpf\Calc.Wpf.csproj", "{6BE521C9-0AED-485A-BA10-8DD044B536D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4DC9AA-464B-498C-8734-B0CE3CE15A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4DC9AA-464B-498C-8734-B0CE3CE15A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4DC9AA-464B-498C-8734-B0CE3CE15A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4DC9AA-464B-498C-8734-B0CE3CE15A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE53797A-D6D5-4237-9C25-A033AF708A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE53797A-D6D5-4237-9C25-A033AF708A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE53797A-D6D5-4237-9C25-A033AF708A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE53797A-D6D5-4237-9C25-A033AF708A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5DD249-1EED-4E02-B8A3-83239FFD2D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5DD249-1EED-4E02-B8A3-83239FFD2D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5DD249-1EED-4E02-B8A3-83239FFD2D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5DD249-1EED-4E02-B8A3-83239FFD2D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE521C9-0AED-485A-BA10-8DD044B536D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE521C9-0AED-485A-BA10-8DD044B536D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE521C9-0AED-485A-BA10-8DD044B536D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE521C9-0AED-485A-BA10-8DD044B536D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
